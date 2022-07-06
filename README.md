@@ -8,7 +8,7 @@ The initial ideas were based in the plugin: [Leaflet.Groupedlayercontrol](https:
 
 ![preview](https://raw.githubusercontent.com/davicustodio/Leaflet.StyledLayerControl/master/examples/StyledLayerControl-example.png)
 
-*Tested with Leaflet 0.7.3*
+*Tested with Leaflet 1.7.8*
 
 ### Main features
 
